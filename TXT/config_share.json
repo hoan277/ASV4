@@ -1,0 +1,13 @@
+{
+  "minTimeSharePost": 1,
+  "maxTimeSharePost": 2,
+  "minSharePost": 1,
+  "maxSharePost": 2,
+  "minTimeShareLivestream": 0,
+  "maxTimeShareLivestream": 0,
+  "minShareLivestream": 0,
+  "maxShareLivestream": 0,
+  "timeWaitOpenShare": 10,
+  "TxtContentShareLive": "",
+  "TxtContentSharePost": ""
+}
